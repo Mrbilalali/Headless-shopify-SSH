@@ -16,7 +16,7 @@ const SectionHero: FC<SectionHeroProps> = ({
   heading = "Discover, collect, and sell extraordinary NFTs ",
   subHeading = "Discover the most outstanding NTFs in all topics of life. Creative your NTFs and sell them",
 }) => {
-  return (
+  return ( 
     <div
       className={`nc-SectionHero relative ${className}`}
       data-nc-id="SectionHero"
