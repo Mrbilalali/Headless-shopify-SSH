@@ -9,7 +9,7 @@ const nextConfig = {
         protocol: "https",
         hostname: "images.pexels.com",
         port: "",
-        pathname: "/**",
+        pathname: "/**", 
       },
       {
         protocol: "https",

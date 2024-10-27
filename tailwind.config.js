@@ -10,7 +10,7 @@ function customColors(cssVar) {
       return `rgba(var(${cssVar}), var(${opacityVariable}, 1))`;
     }
     return `rgb(var(${cssVar}))`;
-  };
+  }; 
 }
 
 module.exports = {
